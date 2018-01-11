@@ -8,7 +8,7 @@
    
    
 <p align="center">
-    <img width="500" height="auto" src="docs/images/php-censor-black.png" alt="PHP Censor" />
+    <img width="500" height="auto" src="javascript:void(0);" alt="PHP Censor" />
 </p>
    
    
